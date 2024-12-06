@@ -1,0 +1,10 @@
+uz.ruzzifer.onlinetaxi.twa.app-androidbrowserhelper-2.5.0-0 C:\Users\am.soliev\.gradle\caches\transforms-3\0e73cdde9a1adfc2c5936f45d887b86c\transformed\androidbrowserhelper-2.5.0\res
+uz.ruzzifer.onlinetaxi.twa.app-browser-1.4.0-1 C:\Users\am.soliev\.gradle\caches\transforms-3\32ce37023e75b0ea209b67c9ec6fa451\transformed\browser-1.4.0\res
+uz.ruzzifer.onlinetaxi.twa.app-core-1.1.0-2 C:\Users\am.soliev\.gradle\caches\transforms-3\c09221260144cbf14e7632df4bed3621\transformed\core-1.1.0\res
+uz.ruzzifer.onlinetaxi.twa.app-pngs-3 D:\media\android\androidproject\source\app\build\generated\res\pngs\release
+uz.ruzzifer.onlinetaxi.twa.app-resValues-4 D:\media\android\androidproject\source\app\build\generated\res\resValues\release
+uz.ruzzifer.onlinetaxi.twa.app-packageReleaseResources-5 D:\media\android\androidproject\source\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+uz.ruzzifer.onlinetaxi.twa.app-packageReleaseResources-6 D:\media\android\androidproject\source\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+uz.ruzzifer.onlinetaxi.twa.app-merged_res-7 D:\media\android\androidproject\source\app\build\intermediates\merged_res\release
+uz.ruzzifer.onlinetaxi.twa.app-main-8 D:\media\android\androidproject\source\app\src\main\res
+uz.ruzzifer.onlinetaxi.twa.app-release-9 D:\media\android\androidproject\source\app\src\release\res

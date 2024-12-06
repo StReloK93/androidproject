@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uz.ruzzifer.onlinetaxi.twa",
+      "sha256_cert_fingerprints": [
+        "60:0F:10:77:A0:89:25:CC:90:77:CA:5C:C8:F0:7C:2A:77:76:4D:BF:12:4C:37:FD:EC:60:57:38:1E:A8:A3:07"
+      ]
+    }
+  }
+]
